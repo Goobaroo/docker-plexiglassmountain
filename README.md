@@ -1,4 +1,4 @@
-# [FTB Plexiglass Mountain](https://feed-the-beast.com/modpack/ftb_plexiglass_mountain) By FTB
+# [FTB Plexiglass Mountain](https://feed-the-beast.com/modpack/96-ftb_plexiglass_mountain) By FTB
 
 <!-- toc -->
 
