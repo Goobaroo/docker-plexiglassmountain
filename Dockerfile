@@ -3,6 +3,12 @@
 FROM openjdk:17.0.2-jdk-buster
 
 LABEL version="1.2.4"
+LABEL homepage.group=Minecraft
+LABEL homepage.name="FTB Plexiglass Mountain"
+LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/91/plexiglass-splash-discord.png"
+LABEL homepage.widget.type=minecraft
+LABEL homepage.widget.url=PlexiglassMountain:25565
+
 
 RUN apt-get update && apt-get install -y curl && \
  adduser --uid 99 --gid 100 --home /data --disabled-password minecraft
