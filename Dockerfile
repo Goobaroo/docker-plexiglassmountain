@@ -5,7 +5,7 @@ FROM openjdk:17.0.2-jdk-buster
 LABEL version="1.2.4"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Plexiglass Mountain"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/91/plexiglass-splash-discord.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/53/533c68e6aa7d58f7afe8697cc5e14850450d5b366dbb2ede1ee2d89ac48fd439.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://PlexiglassMountain:25565
 
